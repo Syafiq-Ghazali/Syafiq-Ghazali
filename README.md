@@ -3,8 +3,6 @@
 
 ---
 
-- 🌱 Currently building skills in **embedded systems, robotics, and hardware design**
-- 📫 Reach me at **syafiqghaza@gmail.com**
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/syafiq-ghazali-6bb719225)
 
 ---
