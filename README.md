@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syafiq Ghazali</h1>
-<h3 align="center">Undergraduate Electrical Engineering Student at the University of British Columbia</h3>
+<h3 align="center"> Electrical Engineering Student at the University of British Columbia</h3>
 
 ---
-
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/syafiq-ghazali-6bb719225)
 
 ---
 
