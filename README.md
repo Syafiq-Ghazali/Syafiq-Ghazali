@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syafiq Ghazali</h1>
-<h3 align="center"> Electrical Engineering Student at the University of British Columbia</h3>
-
----
-Firmware / Embedded Engineer
----
+<h3 align="center"> Electrical Engineering Student at the University of British Columbia</h3>d
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
