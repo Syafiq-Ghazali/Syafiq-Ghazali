@@ -2,7 +2,7 @@
 <h3 align="center"> Electrical Engineering Student at the University of British Columbia</h3>
 
 ---
-
+Firmware / Embedded Engineer
 ---
 
 <h3 align="left">Languages and Tools</h3>
